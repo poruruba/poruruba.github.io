@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+                "appIDs": ["D9PDSUMSRA.jp.or.myhome.sample.MyhomeUniversalLinkCordova"],
+                "components": [
+                {
+                        "/": "/universallinkcordova/*",
+                        "comment": "Universallink test"
+                }
+                ]
+           },
+      ]
+  }
+}
